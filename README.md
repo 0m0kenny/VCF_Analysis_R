@@ -32,4 +32,5 @@ on NA19238, NA19239, NA19240 samples as they are from the same family.
 > Visualise variants via [Integrative Genomics Viewer (IGV)] (https://igv.org/app/)
 
 
+### I also included the R SCript to run the full analysis.
 
