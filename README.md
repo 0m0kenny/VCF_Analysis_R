@@ -19,13 +19,13 @@ mutation that could effect the individual.
 - To find potential diseases or a disorder that might affect the
 child.
 
-[!NOTE]
+> [!NOTE]
 > The 'DellyVariation.vcf' which contains multiple samples but this tutorial focused
 on NA19238, NA19239, NA19240 samples as they are from the same family. 
 > After filtering, the VCF file is uploaded to Ensembl's Variant Effect Predictor and the resulting output is the the 'VEPannotated.txt.zip' file is the compressed version of the VEPannotated.txt file which is too large to upload on git. 
 > Unzip the 'VEPannotated.txt.zip' before loading into R.
 
-[!TIP]
+> [!TIP]
 > Explore different filtering parameters and different families.
 > Explore [Ensembl's Variant Effect Predictor](https://www.ensembl.org/info/docs/tools/vep/index.html) after filtering the vcf using your own parameters. 
 > Can also use different variant annotation tools such as [ANNOVAR](https://annovar.openbioinformatics.org/en/latest/).
