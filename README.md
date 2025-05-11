@@ -27,9 +27,9 @@ on NA19238, NA19239, NA19240 samples as they are from the same family.
 
 [!TIP]
 > Explore different filtering parameters and different families.
-> Explore [Ensembl's Variant Effect Predictor] (https://www.ensembl.org/info/docs/tools/vep/index.html) after filtering the vcf using your own parameters. 
-> Can also use different variant annotation tools such as [ANNOVAR] (https://annovar.openbioinformatics.org/en/latest/).
-> Visualise variants via [Integrative Genomics Viewer (IGV)] (https://igv.org/app/)
+> Explore [Ensembl's Variant Effect Predictor](https://www.ensembl.org/info/docs/tools/vep/index.html) after filtering the vcf using your own parameters. 
+> Can also use different variant annotation tools such as [ANNOVAR](https://annovar.openbioinformatics.org/en/latest/).
+> Visualise variants via [Integrative Genomics Viewer (IGV)](https://igv.org/app/)
 
 
 ### I also included the R SCript to run the full analysis.
